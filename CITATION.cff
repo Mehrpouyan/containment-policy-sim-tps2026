@@ -1,10 +1,5 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite the associated paper and software release."
-title: "Cyber-Attack Containment in Heat-Recovering Data Centers: Shifting the Resilience Frontier"
-type: software
-version: 1.0.0
-license: Apache-2.0
-
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: Mehrpouyan
   given-names: Hoda
@@ -12,13 +7,3 @@ orcid: https://orcid.org/0000-0001-6565-8311
 title: Cyber-Attack Containment in Heat-Recovering Data Centers: Shifting the Resilience Frontier
 version: v1.0.0
 date-released: 2026-08-13
-
-keywords:
-  - cyber-physical systems
-  - cyber-attack containment
-  - dynamic probabilistic risk assessment
-  - data centers
-  - district heating
-  - resilience
-  - reproducibility
-EOF
