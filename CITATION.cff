@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and software release."
+title: "Cyber-Attack Containment in Heat-Recovering Data Centers: Shifting the Resilience Frontier"
+type: software
+version: 1.0.0
+license: Apache-2.0
+
+authors:
+  - family-names: "Mehrpouyan"
+    given-names: "Hoda"
+    affiliation: "Boise State University"
+
+keywords:
+  - cyber-physical systems
+  - cyber-attack containment
+  - dynamic probabilistic risk assessment
+  - data centers
+  - district heating
+  - resilience
+  - reproducibility
+EOF
