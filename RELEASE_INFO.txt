@@ -11,5 +11,5 @@ reproduction scripts, reference results, and validation tests
 associated with the publication.
 
 Archival DOI:
-To be assigned by Zenodo.
+https://doi.org/10.5281/zenodo.21924315
 1. run_grid.py 2. export_frontier_metrics.py 3. export_tables.py 4. export_baselines.py 5. calibrate_detector_variants.py 6. run_attack_template_ablation.py 7. run_policy_parameter_sensitivity.py 8. plot_frontier_panels.py
