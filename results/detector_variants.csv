@@ -1,0 +1,4 @@
+detector,description,window_min,threshold,min_hits,TPR,FPR,latency_min,p_localize
+D0_weak,Single-signal threshold detector,10,0.3,4,0.45,0.04,10,0.55
+D1_improved,Multi-signal residual detector,5,0.2,2,0.75,0.02,4,0.8
+D_oracle,Upper bound,1,0.0,1,1.0,0.0,1,1.0
