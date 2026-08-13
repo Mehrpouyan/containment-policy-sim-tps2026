@@ -6,9 +6,12 @@ version: 1.0.0
 license: Apache-2.0
 
 authors:
-  - family-names: "Mehrpouyan"
-    given-names: "Hoda"
-    affiliation: "Boise State University"
+- family-names: Mehrpouyan
+  given-names: Hoda
+orcid: https://orcid.org/0000-0001-6565-8311
+title: Cyber-Attack Containment in Heat-Recovering Data Centers: Shifting the Resilience Frontier
+version: v1.0.0
+date-released: 2026-08-13
 
 keywords:
   - cyber-physical systems
