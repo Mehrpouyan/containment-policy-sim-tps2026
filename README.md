@@ -505,10 +505,8 @@ Full bibliographic information will be added after publication.
 
 ### Software
 
-The archival software DOI will be added after the final GitHub release is deposited in Zenodo.
-
 ```text
-DOI: To be added after Zenodo archival release
+DOI: (https://doi.org/10.5281/zenodo.21924315)
 ```
 
 Machine-readable citation metadata is provided in:
