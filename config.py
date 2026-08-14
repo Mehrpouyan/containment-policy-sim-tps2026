@@ -26,7 +26,7 @@ BOOT_SEED = 123
 
 # Detector definitions (map -> DetectorParams fields in simulator.py)
 DETECTORS = {
-    "D0_weak":     dict(tpr=0.43, fpr=0.04, latency_min=10, p_localize=0.55),
+    "D0_weak":     dict(tpr=0.45, fpr=0.04, latency_min=10, p_localize=0.55),
     "D1_improved": dict(tpr=0.75, fpr=0.02, latency_min=4,  p_localize=0.80),
     "D_oracle":    dict(tpr=1.00, fpr=0.00, latency_min=1,  p_localize=1.00),
 }
